@@ -9,8 +9,11 @@
 * 10秒間ノードを実行して、出力すべき行を書くというもの
 * 実行例　　grep　"Listen: 10" の場合
 
-　[listener-2] ...: Listen: 10
 ```
+
+[listener-2] ...: Listen: 10
+```
+
 ## テスト環境
 * Ubuntu 22.04
 
