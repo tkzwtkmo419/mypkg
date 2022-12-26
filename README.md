@@ -4,7 +4,7 @@
 
 ![test](https://github.com/tkzwtkmo419/mypkg/actions/workflows/test.yml/badge.svg)
 
-# テスト内容の説明
+# スクリプトの説明
 
 * 10秒間ノードを実行して、出力すべき行を書くというもの
 * 具体例　　grep　"Listen: 10" の場合
