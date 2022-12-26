@@ -1,17 +1,9 @@
 # mypkg
 ロボットシステム学の練習リポジトリ
+これは、ROS2のパッケージです。
 
 ![test](https://github.com/tkzwtkmo419/mypkg/actions/workflows/test.yml/badge.svg)
 
-# plusコマンド
-* すべての数字を足し合わせる
-
-# パッケージのインストール方法
-
-```
-$git clone https://github.com/tkzwtkmo419/mypkg.git
-$cd ros2_ws/src/mypkg
-```
 # スクリプトの説明
 
 * 0と入力された数字の全部を足して出た答えを出力するプログラム
