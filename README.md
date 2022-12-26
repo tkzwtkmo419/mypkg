@@ -9,8 +9,8 @@
 # パッケージのインストール方法
 
 ```
-$git clone https://github.com/tkzwtkmo419/robosys2022.git
-$cd robosys2022
+$git clone https://github.com/tkzwtkmo419/mypkg.git
+$cd ros2_ws/src/mypkg
 ```
 # スクリプトの説明
 
