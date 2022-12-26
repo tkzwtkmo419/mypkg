@@ -4,14 +4,12 @@
 
 ![test](https://github.com/tkzwtkmo419/mypkg/actions/workflows/test.yml/badge.svg)
 
-# スクリプトの説明
+# テスト内容の説明
 
-* 0と入力された数字の全部を足して出た答えを出力するプログラム
+* 10秒間ノードを実行して、出力すべき行を書くというもの
+* 実行例　　grep　"Listen: 10" の場合
 
-* 具体例　入力がseq 5だと　0 1 2 3 4 5の6つを足し合わせて15になる
-```
-$ seq 5 | ./plus
-15
+　[listener-2] ...: Listen: 10
 ```
 ## テスト環境
 * Ubuntu 22.04
