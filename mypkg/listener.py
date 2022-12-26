@@ -1,6 +1,3 @@
-#SPDX-FileCopyrightText: 2022 Takumi Takazawa tkzwpen0419@outlook.jp
-#SPDX-License=Identifier: BSD-3-Clause
-
 import rclpy
 from rclpy.node import Node
 def cb(msg):
