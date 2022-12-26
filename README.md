@@ -1,6 +1,6 @@
 # mypkg
-ロボットシステム学の練習リポジトリ
-これは、ROS2のパッケージです。
+* ロボットシステム学の練習リポジトリ
+* これは、ROS2のパッケージです。
 
 ![test](https://github.com/tkzwtkmo419/mypkg/actions/workflows/test.yml/badge.svg)
 
