@@ -11,6 +11,7 @@
 * 具体例　　grep　"Listen: 10" の場合
 
 ```
+$../test/test.bash
 [listener-2] ...: Listen: 10
 ```
 
